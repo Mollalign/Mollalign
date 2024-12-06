@@ -12,7 +12,7 @@ A creative and detail-oriented **Frontend Developer** passionate about building 
 
 💡 **Fun Fact:** I’m currently learning **Node.js** and exploring the world of **UX/UI Design**.  
 📍 **Location:** Hawassa, Ethiopia  
-🎓 **Education:****Computer Science Student** at **Hawassa University**  
+🎓 **Education:** **Computer Science Student** at **Hawassa University**  
 🛠️ **Goal:** Become a Full-Stack Developer 🚀  
 
 ---
