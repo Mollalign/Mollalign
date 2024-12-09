@@ -1,6 +1,4 @@
 # 🌟 **Frontend Developer Portfolio**  
-
-![Welcome Banner](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif)  
 <!-- Replace with your custom banner -->
 
 ---
@@ -65,6 +63,8 @@ A modern calculator app with interactive design and smooth animations.
 </p>
 
 ---
+![Welcome Banner](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif) 
+
 
 ## 🔥 **Quote for Inspiration**
 
