@@ -8,7 +8,7 @@
 Hi, I'm **Mollalign Daniel**!  
 A creative and detail-oriented **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications.
 
-💡 **Fun Fact:** I’m currently learning **Node.js** and exploring the world of **UX/UI Design**.  
+💡 **Fun Fact:** I’m currently learning **Node.js**.  
 📍 **Location:** Hawassa, Ethiopia  
 🎓 **Education:** **Computer Science Student** at **Hawassa University**  
 🛠️ **Goal:** Become a Full-Stack Developer 🚀  
@@ -21,21 +21,24 @@ A creative and detail-oriented **Frontend Developer** passionate about building 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI-Design-%23FF6F61.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Currently Learning:
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![UX/UI Design](https://img.shields.io/badge/UX%2FUI-Design-%23FF6F61.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ## 🏗️ **Projects**
 
 ### 🎨 **Portfolio Website**  
-🚀 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript  
+🚀 **Tech Stack:** HTML, CSS, Bootstrap, JavaScript, Tailwind CSS  
 🔗 [Live Demo](#) | 💻 [GitHub Repo](#)  
 A sleek and responsive portfolio showcasing my skills and projects.
 
@@ -65,7 +68,6 @@ A modern calculator app with interactive design and smooth animations.
 
 ---
 ![Welcome Banner](https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif) 
-
 
 ## 🔥 **Quote for Inspiration**
 
