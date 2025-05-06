@@ -2,8 +2,6 @@
 
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37c008-4f74-4b22-973b-3c9d5b2ecb14.gif)
 
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -12,8 +10,8 @@ Hi there! I'm **Mollalign Daniel**, a passionate and creative **Frontend Develop
 I love crafting responsive and modern web applications that deliver great user experiences.  
 
 🎓 **Computer Science Student** @ **Hawassa University**  
-🚀 **Goal:** To become a **Full-Stack Developer**  
-💡 **Fun Fact:** I’m currently exploring **Node.js** and **Express.js**  
+🚀 **Goal:** To become an **AI Engineer**  
+💡 **Fun Fact:** I’m currently working as a **Full-Stack Developer**  
 🧠 Always learning. Always building.
 
 ---
@@ -95,5 +93,3 @@ A stylish calculator with modern UI and smooth UX.
 ### 📝 Credits
 - Badges by [Shields.io](https://shields.io)  
 - GitHub Stats by [Anurag Hazra](https://github.com/anuraghazra/github-readme-stats)
-
----
