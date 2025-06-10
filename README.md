@@ -1,4 +1,4 @@
-# 🌟 Mollalign Daniel — Frontend Developer Portfolio  
+# 🌟 Mollalign Daniel — Fullstack Developer Portfolio  
 
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37c008-4f74-4b22-973b-3c9d5b2ecb14.gif)
 
