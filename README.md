@@ -6,12 +6,11 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Mollalign Daniel**, a passionate and creative **Fullstack Developer** from **Hawassa, Ethiopia** 🇪🇹.  
+Hi there! I'm **Mollalign Daniel**, a passionate and creative **Junior Fullstack Developer** from **Hawassa, Ethiopia** 🇪🇹.  
 I love crafting responsive and modern web applications that deliver great user experiences.  
 
 🎓 **Computer Science Student** @ **Hawassa University**  
-🚀 **Goal:** To become an **AI Engineer**  
-💡 **Fun Fact:** I’m currently working as a **Full-Stack Developer**  
+🚀 **Goal:** To become an **AI Engineer* 
 🧠 Always learning. Always building.
 
 ---
