@@ -1,4 +1,4 @@
-# 🌟 Mollalign Daniel — Fullstack Developer Portfolio  
+# 🌟 Mollalign Daniel —Junior Fullstack Developer Portfolio  
 
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37c008-4f74-4b22-973b-3c9d5b2ecb14.gif)
 
@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Mollalign Daniel**, a passionate and creative **Frontend Developer** from **Hawassa, Ethiopia** 🇪🇹.  
+Hi there! I'm **Mollalign Daniel**, a passionate and creative **Fullstack Developer** from **Hawassa, Ethiopia** 🇪🇹.  
 I love crafting responsive and modern web applications that deliver great user experiences.  
 
 🎓 **Computer Science Student** @ **Hawassa University**  
