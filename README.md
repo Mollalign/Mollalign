@@ -6,14 +6,15 @@
 
 ## 👨‍💻 About Me  
 
-Hey 👋 I’m **Mollalign Daniel**, a **4th Year Computer Science student** at  
+Hey 👋 I’m **Mollalign Daniel**, a **4th Year Computer Science Student** at  
 🎓 **Hawassa University**, Ethiopia 🇪🇹 — graduating **June 2026**.
 
-I’m a **Fullstack Developer** with a strong backend focus, currently transitioning into **AI Engineering**.  
-I enjoy building **scalable systems**, **clean APIs**, and **AI-powered applications** that actually solve real problems.
+I’m a **Fullstack Developer** with strong backend experience and a growing focus on **AI-powered applications**.  
+I build **scalable systems, clean APIs, and modern web & mobile apps** with an emphasis on performance and usability.
 
 🧠 **Current Focus:** Backend Architecture, AI Integration, RAG Systems  
-🚀 **Career Goal:** Full-fledged **AI Engineer**  
+🚀 **Career Goal:** Full-fledged AI Engineer  
+🌐 **Portfolio:** [https://mollalign.vercel.app](https://mollalign.vercel.app)  
 🔁 **Philosophy:** *Learn deeply. Build seriously. Improve relentlessly.*
 
 ---
@@ -37,7 +38,6 @@ I enjoy building **scalable systems**, **clean APIs**, and **AI-powered applicat
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django Ninja](https://img.shields.io/badge/Django--Ninja-0A7E07?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -67,9 +67,9 @@ I enjoy building **scalable systems**, **clean APIs**, and **AI-powered applicat
 ## 📁 Featured Projects  
 
 ### 🎨 Personal Portfolio  
-A modern developer portfolio focused on clarity, performance, and clean UI.  
+A modern, performance-focused portfolio highlighting my work, skills, and projects.  
 🛠️ **Tech:** Next.js, React, TailwindCSS  
-🔗 [Live Demo](#) | 💻 [GitHub Repo](#)
+🔗 [Live Site](https://mollalign.vercel.app) | 💻 [GitHub Repo](#)
 
 ---
 
@@ -86,15 +86,6 @@ A lightweight, offline-first mobile app with local persistence.
 🔗 [Live Demo](#) | 💻 [GitHub Repo](#)
 
 ---
-
-## 📊 GitHub Stats  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mollalign&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mollalign&layout=compact&theme=radical" height="180"/>
-</p>
-
 
 ---
 
@@ -114,8 +105,6 @@ A lightweight, offline-first mobile app with local persistence.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
 
 ---
 
