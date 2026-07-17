@@ -1,4 +1,4 @@
-# 🌟 Mollalign Daniel — Fullstack Developer | AI Engineer in Progress  
+# 🌟 Mollalign Daniel — Fullstack Developer | AI Engineer  
 
 ![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37c008-4f74-4b22-973b-3c9d5b2ecb14.gif)
 
